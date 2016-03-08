@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="NotesandPasswords">
+        <wb-resource deploy-path="/" source-path="/apps/NotesandPasswords/common"/>
+        <wb-resource deploy-path="/" source-path="/apps/NotesandPasswords/android"/>
+        <wb-resource deploy-path="/" source-path="/apps/NotesandPasswords/iphone"/>
+        <wb-resource deploy-path="/" source-path="/apps/NotesandPasswords/ipad"/>
+        <property name="context-root" value="NotesandPasswords"/>
+    </wb-module>
+</project-modules>
